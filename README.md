@@ -46,7 +46,7 @@ Two transfer learning architectures were tested:
   - Dense(256, ReLU) + Dropout(0.5)  
   - Dense(6, Softmax)  
 
-#### 🔹 EfficientNetB0
+#### 🔹 EfficientNetB3
 - Pretrained on ImageNet  
 - Fine-tuned last 30 layers  
 - Similar custom classifier head  
