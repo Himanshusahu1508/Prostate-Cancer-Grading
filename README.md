@@ -86,7 +86,7 @@ To understand what the model "sees":
 - Experiments run on **Google Colab (Tesla T4 GPU)**  
 - Trained on **3k–10k image patches** due to memory limits  
 - Observations:
-  - ResNet50 achieved better validation stability than EfficientNetB0  
+  - ResNet50 achieved better validation stability than EfficientNetB3 
   - Accuracy improved significantly with **data augmentation + fine-tuning**  
   - Grad-CAM provides interpretability for medical insights  
 
