@@ -90,7 +90,7 @@ To understand what the model "sees":
   - Accuracy improved significantly with **data augmentation + fine-tuning**  
   - Grad-CAM provides interpretability for medical insights  
 
-*(Final accuracy numbers will depend on dataset size & fine-tuning strategy — update here once trained fully!)*
+*(Final accuracy numbers will depend on dataset size & fine-tuning strategy will update here once trained fully!)*
 
 ---
 
