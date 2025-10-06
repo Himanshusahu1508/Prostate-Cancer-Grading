@@ -72,6 +72,9 @@ To understand what the model "sees":
 - Implemented **Grad-CAM** visualizations
 - Highlights regions in histopathology patches that influenced predictions
 
+<img width="793" height="374" alt="image" src="https://github.com/user-attachments/assets/6a204e98-4035-4949-8f24-f396dc6dc89c" />
+
+
 ---
 
 ### 7. Deployment
